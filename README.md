@@ -10,5 +10,7 @@ c++ as base language
 # Folders and Its contents
 
 # BASIC TECHNIQUES
-
-## a -> basic cpp syntax
+##  filename -> description
+### a -> basic cpp syntax
+### b -> get sentence, infinite data rendering until the end
+### c -> read input from file, output to file
