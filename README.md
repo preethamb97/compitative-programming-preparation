@@ -14,3 +14,4 @@ c++ as base language
 ### a -> basic cpp syntax
 ### b -> get sentence, infinite data rendering until the end
 ### c -> read input from file, output to file
+### d -> working with numbers
