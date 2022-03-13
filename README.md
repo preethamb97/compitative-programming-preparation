@@ -15,3 +15,4 @@ c++ as base language
 ### b -> get sentence, infinite data rendering until the end
 ### c -> read input from file, output to file
 ### d -> working with numbers
+### e -> modulo arithmetic
