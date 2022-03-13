@@ -16,3 +16,4 @@ c++ as base language
 ### c -> read input from file, output to file
 ### d -> working with numbers
 ### e -> modulo arithmetic
+### f -> floating point numbers
