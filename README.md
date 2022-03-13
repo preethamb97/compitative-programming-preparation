@@ -17,3 +17,4 @@ c++ as base language
 ### d -> working with numbers
 ### e -> modulo arithmetic
 ### f -> floating point numbers
+### g -> shortening code
