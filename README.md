@@ -18,3 +18,4 @@ c++ as base language
 ### e -> modulo arithmetic
 ### f -> floating point numbers
 ### g -> shortening code
+### h -> macros
