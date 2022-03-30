@@ -19,3 +19,4 @@ c++ as base language
 ### f -> floating point numbers
 ### g -> shortening code
 ### h -> macros
+### i -> sorting algorithms => bubble sorting(O(n^2))
