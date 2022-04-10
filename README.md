@@ -20,3 +20,4 @@ c++ as base language
 ### g -> shortening code
 ### h -> macros
 ### i -> sorting algorithms => bubble sorting(O(n^2)) mergeSort 
+### j -> simple binary search
