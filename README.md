@@ -20,3 +20,7 @@ c++ as base language
 ### g -> shortening code
 ### h -> macros
 ### i -> sorting algorithms => bubble sorting(O(n^2)) mergeSort 
+### j -> simple binary search
+### k -> datastructure - vector => dynamic array
+### l -> datastructure - set => insert, search, remove
+### m -> datastructure - map => key value pair of any type
