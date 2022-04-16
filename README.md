@@ -23,3 +23,4 @@ c++ as base language
 ### j -> simple binary search
 ### k -> datastructure - vector => dynamic array
 ### l -> datastructure - set => insert, search, remove
+### m -> datastructure - map => key value pair of any type

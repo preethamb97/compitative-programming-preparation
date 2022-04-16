@@ -24,12 +24,20 @@ int main()
 
     multiset<int> ms;
     ms.insert(5);
+    ms.insert(6);
     ms.insert(5);
     ms.insert(5);
+    ms.insert(7);
     ms.insert(5);
     ms.insert(5);
     ms.insert(5);
     cout << "count of 5 in multiset is: " << ms.count(5) << endl;
+
+    cout << "size of ms: " << ms.size() << endl;
+    for (auto x : ms)
+    {
+        cout << " value of x is : " << x << endl;
+    }
 
     ms.erase(ms.find(5));
     cout << "count of 5 in multiset is: " << ms.count(5) << endl;
