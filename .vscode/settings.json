@@ -9,6 +9,10 @@
         "utility": "cpp",
         "valarray": "cpp",
         "iostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "forward_list": "cpp"
     }
 }

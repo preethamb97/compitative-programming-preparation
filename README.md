@@ -26,6 +26,11 @@ c++ as base language
 ### m -> datastructure - map => key value pair of any type
 ### n -> datastructure - iterators and ranges => iterator points to element in datastructure
 ### o -> datastructure - bitset
+### p -> datastructure - deque
+### q -> datastructure - stack
+### r -> datastructure - queue
+### s -> datastructure - priority queue
 
 # Pending Topics to cover later
 ### Set Iterators
+### policy based datastructures
