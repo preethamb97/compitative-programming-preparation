@@ -3,4 +3,4 @@
 # COMPLETE SEARCH
 ##  filename -> description
 
-### a -> generating subsets
+### a -> generating subsets using recursion, bit representation
