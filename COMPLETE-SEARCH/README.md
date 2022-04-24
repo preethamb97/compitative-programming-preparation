@@ -4,3 +4,4 @@
 ##  filename -> description
 
 ### a -> generating subsets using recursion, bit representation
+### b -> generating permutations
