@@ -43,7 +43,7 @@ void generatePermAlgo(vector<int> permutation, vector<bool> numcopy)
 void generatingPermutationUsingRecursion()
 {
     vector<int> empty;
-    vector<bool> numcopy = {false, false, false};
+    vector<bool> numcopy(numbers.size(), false);
     generatePermAlgo(empty, numcopy);
     printFunction("test");
 }
