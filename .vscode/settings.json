@@ -13,6 +13,7 @@
         "deque": "cpp",
         "list": "cpp",
         "vector": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "type_traits": "cpp"
     }
 }

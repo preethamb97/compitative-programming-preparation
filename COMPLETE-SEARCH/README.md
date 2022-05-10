@@ -5,3 +5,4 @@
 
 ### a -> generating subsets using recursion, bit representation
 ### b -> generating permutations
+### c -> backtracking - n queen problem
