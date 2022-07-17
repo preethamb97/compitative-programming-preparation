@@ -1,6 +1,6 @@
 # Folders and Its contents
 
-# COMPLETE SEARCH
+# DYNAMIC PROGRAMMING
 ##  filename -> description
 
 ### a -> coin problem
